@@ -2,6 +2,8 @@
 
 This is a simple web-based Tip Calculator that allows users to calculate the tip amount and the total bill amount based on the bill and tip percentage entered.
 
+## Hosted on https://anushri255.github.io/tipping-calc.io/
+
 ## Features
 
 - **Calculate Tip**: Enter the bill amount and the desired tip percentage to calculate the tip.
